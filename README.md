@@ -6,8 +6,8 @@ Assignment 1: Data Collection & Curation
 **Links to any relevant API documentation:** Not applicable. Publicly accessible dataset from https://data.world/animals/zoo-animal-lifespans was used. 
 
 **License of data:**
-\n https://github.com/pinadai/I310D-Assignment-1/blob/main/LICENSE
-\n MIT License
+https://github.com/pinadai/I310D-Assignment-1/blob/main/LICENSE
+MIT License
 
 Copyright (c) 2022 pinadai
 
