@@ -30,8 +30,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-**Source data:** https://data.world/animals/zoo-animal-lifespans - dataset from data.world
-Click [here](https://docs.google.com/spreadsheets/d/1Y7SFJJlGVhCN7JYyhqADmDtbPLFaFSgSElvBwlrpe0A/edit?usp=sharing) to see data file.
+**Source data:** https://data.world/animals/zoo-animal-lifespans - dataset from data.world. 
+\newline Click [here](https://docs.google.com/spreadsheets/d/1Y7SFJJlGVhCN7JYyhqADmDtbPLFaFSgSElvBwlrpe0A/edit?usp=sharing) to see data file.
 
 
 
