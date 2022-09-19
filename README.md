@@ -65,8 +65,8 @@ Click [here](https://docs.google.com/spreadsheets/d/1Y7SFJJlGVhCN7JYyhqADmDtbPLF
 
 ### Any known issues or potential issues:
 
-- The specific North American zoos & aquariums were not thoroughly specified by the source data description. Zoos and aquariums could have different policies on life expectancy situations, and since North America includes the United States and Canada, more detailed information about this couldv'e been useful.
-- Not completely sure how this data was collected and buy whom. Collectors of the source data couldv'e been biased on what information they chose to include in this dataset. 
+- The specific North American zoos & aquariums were not thoroughly specified by the source data description. Zoos and aquariums could have different policies on life expectancy situations, and since North America includes the United States and Canada, more detailed information about this could've been useful.
+- Not completely sure how this data was collected and buy whom. Collectors of the source data could've been biased on what information they chose to include in this dataset. 
 
 
 
