@@ -7,6 +7,7 @@ Assignment 1: Data Collection & Curation
 
 **License of data:**
 https://github.com/pinadai/I310D-Assignment-1/blob/main/LICENSE
+
 MIT License
 
 Copyright (c) 2022 pinadai
