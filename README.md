@@ -3,7 +3,7 @@
 
 ### Goal of this project:
 
-To determine the median life expectancies of animals in North American zoos, as well as gauge in which age range the death of zoo animals is most common. To attempt to execute best practices for scientific research in designing and implementing. To make my findings fully reproducible by others.
+To determine the median life expectancies of animals in North American zoos and aquariums, as well as gauge in which age range the death of zoo/aquarium animals is most common. To attempt to execute best practices for scientific research in designing and implementing. To make my findings fully reproducible by others.
 
 ### Links to any relevant API documentation:
 
@@ -39,27 +39,34 @@ SOFTWARE.
 
 https://data.world/animals/zoo-animal-lifespans - dataset from data.world. 
 
-Click [here](https://docs.google.com/spreadsheets/d/1Y7SFJJlGVhCN7JYyhqADmDtbPLFaFSgSElvBwlrpe0A/edit?usp=sharing) to see data file.
+Data citation from data.world: Che-Castaldo, J. P., Byrne, A., Perišin, K., & Faust, L. J. figshare https://doi.org/10.6084/m9.figshare.7539968 (2018)
+
+Click [here](https://docs.google.com/spreadsheets/d/1Y7SFJJlGVhCN7JYyhqADmDtbPLFaFSgSElvBwlrpe0A/edit?usp=sharing) to see source data file.
 
 ### Data type and description for each attribute in the data:
 
-**Species Common Name** <class 'str'>: 
+**Species Common Name** <class 'str'>: Common species name of vertebrate animal in North American zoo and/or aquarium
 
-Scientific Name <class 'str'>
+**Scientific Name** <class 'str'>: Scientific species name of vertebrate animal in North American zoo and/or aquarium 
 
-Taxon Class <class 'str'>
+**Taxon Class** <class 'str'>: Describes which vertebrate taxa the species resides in
 
-Overall Sample Size <class 'numpy.float64'>
+**Overall Sample Size** <class 'numpy.float64'>: Total recorded number of animals in that specific species
 
-Overall Median Life Expectancy  <class 'numpy.float64'>
+**Overall MLE**  <class 'numpy.float64'>: Overall median life expectancy of that specific species
 
-Male Sample Size <class 'numpy.float64'>
+**Male Sample Size** <class 'numpy.float64'>: Total number of male-classified animals for that specific species
 
-Male Median Life Expectancy <class 'numpy.float64'>
+**Male MLE** <class 'numpy.float64'>: Median life expectancy for male animals in a specifc species
 
-Female Sample Size <class 'numpy.float64'>
+**Female Sample Size** <class 'numpy.float64'>: Total number of female-classified animals for that specific species 
 
-Female Median Life Expectancy <class 'numpy.float64'>
+**Female MLE** <class 'numpy.float64'>: Median life expectancy for female animals in a specific species
+
+### Any known issues or potential issues:
+
+- The specific North American zoos & aquariums were not thoroughly specified by the source data description. Zoos and aquariums could have different policies on life expectancy situations, and since North America includes the United States and Canada, more detailed information about this couldv'e been useful.
+- Not completely sure how this data was collected and buy whom. Collectors of the source data couldv'e been biased on what information they chose to include in this dataset. 
 
 
 
