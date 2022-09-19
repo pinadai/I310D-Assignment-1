@@ -1,7 +1,8 @@
 # I310D-Assignment-1
-Assignment 1: Data Collection & Curation
+## Assignment 1: Data Collection & Curation
 
-**Goal of this project:** To determine the median life expectancies of animals in North American zoos, as well as gauge in which age range the death of zoo animals is most common. To attempt to execute best practices for scientific research in designing and implementing. To make my findings fully reproducible by others.
+**Goal of this project:** 
+To determine the median life expectancies of animals in North American zoos, as well as gauge in which age range the death of zoo animals is most common. To attempt to execute best practices for scientific research in designing and implementing. To make my findings fully reproducible by others.
 
 **Links to any relevant API documentation:** Not applicable. Publicly accessible dataset from https://data.world/animals/zoo-animal-lifespans was used. 
 
@@ -31,7 +32,27 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 **Source data:** https://data.world/animals/zoo-animal-lifespans - dataset from data.world. 
-\newline Click [here](https://docs.google.com/spreadsheets/d/1Y7SFJJlGVhCN7JYyhqADmDtbPLFaFSgSElvBwlrpe0A/edit?usp=sharing) to see data file.
+Click [here](https://docs.google.com/spreadsheets/d/1Y7SFJJlGVhCN7JYyhqADmDtbPLFaFSgSElvBwlrpe0A/edit?usp=sharing) to see data file.
+
+**Data type and description for each attribute in the data:**
+
+Species Common Name <class 'str'>: 
+
+Scientific Name <class 'str'>
+
+Taxon Class <class 'str'>
+
+Overall Sample Size <class 'numpy.float64'>
+
+Overall Median Life Expectancy  <class 'numpy.float64'>
+
+Male Sample Size <class 'numpy.float64'>
+
+Male Median Life Expectancy <class 'numpy.float64'>
+
+Female Sample Size <class 'numpy.float64'>
+
+Female Median Life Expectancy <class 'numpy.float64'>
 
 
 
