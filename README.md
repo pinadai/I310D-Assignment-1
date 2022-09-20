@@ -5,6 +5,10 @@
 
 To determine the median life expectancies of animals in North American zoos and aquariums, as well as gauge in which age range the death of zoo/aquarium animals is most common. To attempt to execute best practices for scientific research in designing and implementing. To make my findings fully reproducible by others.
 
+### Analysis:
+
+The data was analyzed to produce a bar graph representing the distribution of the overall median life expectancy of all species. The most common range was 7 to 15 years. This was done to achieve the goal of this project.
+
 ### Links to any relevant API documentation:
 
 Not applicable. Publicly accessible dataset from https://data.world/animals/zoo-animal-lifespans was used. 
